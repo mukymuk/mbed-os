@@ -19,7 +19,7 @@ from os import getenv
 from os.path import join, abspath, dirname, exists
 import logging
 
-ROOT = abspath(join(dirname(__file__), ".."))
+ROOT = ".."
 
 
 ##############################################################################
